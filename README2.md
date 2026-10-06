@@ -1,5 +1,5 @@
 
-### 1. Problem Statement :-
+### 1. Problem Statement :-  
 
 In educational institutions, Class Test (CT) marks of students are often recorded and managed manually using notebooks, spreadsheets, or separate files. This traditional approach can make it difficult for faculty members to efficiently enter, update, organize, and retrieve students' marks. It may also lead to errors, duplication of data, loss of records, and difficulty in maintaining marks for different classes, subjects, and examinations.
 
